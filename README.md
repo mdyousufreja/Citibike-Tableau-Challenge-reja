@@ -36,3 +36,4 @@ Here is the link to the story - [Citibike Tableau Story](https://public.tableau.
 1. NY Citibike Study [Dashboard1](https://public.tableau.com/app/profile/md.yousuf.reja/viz/Citibike_reja_dashboard1/NYCitibukestudy)
 2. Popular Starting Stations Visualization [Dashboard2](https://public.tableau.com/app/profile/md.yousuf.reja/viz/Citibike_reja_dashboard2/StartStations)
 3. Popular Ending Stations Visualization [Dashboard3](https://public.tableau.com/app/profile/md.yousuf.reja/viz/Citibike_reja_dashboard3/EndStations)
+4. Popular Bikes and Busy Days [dashboard4](https://public.tableau.com/app/profile/md.yousuf.reja/viz/Citibike_reja_dashboard4/Popularbikeofmemberusersandbusydays)
