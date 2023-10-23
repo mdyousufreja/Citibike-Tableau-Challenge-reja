@@ -14,3 +14,5 @@ However, while the data has been regularly updated, the team has yet to implemen
 ## Files ##
 
 Downloaded the 6 months of Cirttibike data as csvs from April to September 2023 data using the link to get started: [Citi Bike Data](https://citibikenyc.com/system-data). 
+
+Combined the 6 months of data and created a single csv database. 
