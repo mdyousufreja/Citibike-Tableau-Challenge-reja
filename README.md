@@ -21,4 +21,8 @@ Downloaded the 6 months of Citibike data as CSV from April to September 2023 dat
 3. Created and styled worksheets, dashboards, and a story based on the questions.
 4. Utilized Tableau worksheets to present data in a polished and precise manner, creating professional-grade visualizations.
 5. Crafted Tableau dashboards to represent data with accuracy, ensuring that the information is displayed effectively and comprehensively.
- 
+
+
+ ## Results for NY Citibike Study ##
+
+ This case study aims to explore the riding patterns of Citi Bikers from April to September 2023, shedding light on their preferred routes, rush hours, popular bike types, and the popularity of specific bike stations. Additionally, it seeks to identify the days of the week when riders are most active. The study also intends to propose enhancements to the Citi program, emphasizing a shift towards annual subscriptions instead of casual daily memberships. Biking activity is predominantly observed during the mid-late summer season, with July and August emerging as the most favored months. Furthermore, the study identifies that every day 4-6 p.m. as the peak hour for ridership.
