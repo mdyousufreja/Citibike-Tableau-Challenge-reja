@@ -15,4 +15,10 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 Downloaded the 6 months of Cirttibike data as csvs from April to September 2023 data using the link to get started: [Citi Bike Data](https://citibikenyc.com/system-data). 
 
-Combined the 6 months of data and created a single csv database. 
+1. Combined the 6 months of data and created a single csv database.
+   - Used Jupyter Notebook to do this process. 
+2. Imported the data into Tableau.
+3. Created and styled worksheets, dashboards, and a story based on the questions.
+4. Utilized Tableau worksheets to present data in a polished and precise manner, creating professional-grade visualizations.
+5. Crafted Tableau dashboards to represent data with accuracy, ensuring that the information is displayed effectively and comprehensively.
+ 
